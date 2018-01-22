@@ -1,0 +1,14 @@
+{
+
+  "autoload": {
+
+    "psr-4": {
+
+      "SGenial": "interfaces"
+
+    }
+
+
+  }
+
+}
